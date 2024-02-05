@@ -1,7 +1,7 @@
 ![ArchGPT Logo.](https://i.ibb.co/zn8fx1Y/ARCHGPT-banner.png)
 # ArchGPT - Conversational AI in Minecraft!
 
-**Downloads:** Spigot | Modrinth<br>
+**Downloads:** [Spigot](https://www.spigotmc.org/resources/archgpt-dynamic-npc-conversations.114592/) | Modrinth<br>
 **Discord:** https://discord.gg/emDFbsKNV4<br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8RW4TJ)
