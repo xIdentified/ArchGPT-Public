@@ -4,6 +4,8 @@
 **Downloads:** Spigot | Modrinth<br>
 **Discord:** https://discord.gg/emDFbsKNV4<br>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8RW4TJ)
+
 ## About
 Hey, thanks for checking this out! ArchGPT aims to add life-like conversational capabilities to your server's NPCs.
 The plugin utilizes the OpenAI API to generate relevant responses for your players, and LibreTranslate to translate
